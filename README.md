@@ -20,7 +20,7 @@
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam0337" alt="satyam0337" /></a> </p>
 </br>
-      <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/>
+      <img align="right" alt="Coding" width="400"   borderRadius="20px" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/>
    ## 🙋‍♂️ About Me
       
    - 🔭 I’m currently pursuing Full Stack Web Development
