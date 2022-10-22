@@ -16,12 +16,11 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Satyam Kumar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-
-</br>
-      <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
+---
+<!----------------------------------- About Section ------------------------------------>
       
  <h1> ## 🙋‍♂️ About Me </h1>
-      
+        <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
 - 🔭 I’m currently pursuing Full Stack Web Development
       
 - 🌱 I’m currently learning *Frontend*
@@ -40,7 +39,7 @@
       
       
       <br />
-      ---
+    
       
       <h2 align="center">📱 Connect with me</h2>
       <br />
