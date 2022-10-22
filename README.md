@@ -39,7 +39,7 @@
       <br />
     
       
-      <h2 align="center">📱 Connect with me</h2>
+      <h2 ><i>📱 Connect with me<i/></h2>
       <br />
       
       <p align="center">
@@ -48,10 +48,10 @@
       </p>
       <br />
       
-      <hr />
+   
       
-      
-      <h2 align="center">🚀 Languages and Tools:</h2>
+      <h2><i>🚀 Languages and Tools:</i></h2>
+
       <br/>
       <div align="center">
        
@@ -89,40 +89,31 @@
          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
        </div>
       </div>
+   <br/>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p display="flex" align="center">
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0337&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+
+  <a href="https://github.com/bhargavi35?tab=repositories">
+    <img width="400" height="auto"  alt="Arjun's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=satyam0337&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0337&hide=smalltalk&theme=algolia&layout=compact" alt="bhargavi35" />
+</p>
+
+---
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+<hr/>
+        
       
-      <br/>
+   <img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satyam0337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
       
-      
-      <hr />
-      
-      
-      <h2 align="center">📊 My Github Stats</h2>
-         <br/>   
-          <p align="center">      
-        <a href=""><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0337&hide=smalltalk&theme=algolia&layout=compact" /></a>
-            </p>      
-           <br/>
-         <p align="center">
-          <a href="">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=satyam0337&show_icons=true&theme=algolia&count_private=true"/>
-          </a>
-      </p>                                                                                                                                              
-      
-        <br/>
-        <br/>
-           <p align="center">                                                                                                 
-          <a href="https://github.com/satyam0337/github-readme-stats"><img alt="ShravaniMishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyam0337&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="ShravaniMishra" /></a>
-          </p>                                                                 
-       <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-      
-      
-      <br/>
-      <br/>
-      
-      <a href="https://github.com/satyam0337/github-readme-activity-graph"><img alt="Shravani Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=satyam0337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-      
-      <br/>
-      <br/>
+    
       
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&amp;color=36BCF7FF&amp;size=19&amp;lines=𝕋𝕙𝕒𝕟𝕜𝕤!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
