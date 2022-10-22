@@ -39,7 +39,7 @@
    - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
       
-      <br />
+      <hr />
       
       
       <h2 align="center">📱 Connect with me</h2>
