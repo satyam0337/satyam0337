@@ -125,4 +125,4 @@
       <br/>
       
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&amp;color=0195dd&amp;size=19&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&amp;color=36BCF7FF&amp;size=19&amp;lines=𝕋𝕙𝕒𝕟𝕜𝕤!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
