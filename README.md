@@ -26,20 +26,20 @@
       
 - 🌱 I’m currently learning *Frontend*
       
-   - 📄 Check out my [Resume]  
+  - 📄 Check out my [Resume]  
       
-   - 💻 Know more about me [Portfolio](https://satyam.github.io/)
+  - 💻 Know more about me [Portfolio](https://satyam.github.io/)
       
-   - 💻 All of my projects are available at **[My Github Repositories](https://github.com/satyam0337?tab=repositories)**
+  - 💻 All of my projects are available at **[My Github Repositories](https://github.com/satyam0337?tab=repositories)**
       
-   - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
+  - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
       
-   - 📫 How to reach me *satyam.masai123@gmail.com*
+  - 📫 How to reach me *satyam.masai123@gmail.com*
       
    - ⚡ Fun fact *If Brain is not equal to empty!!! then keep coding else order a coffee*
       
       
-      <hr />
+      <br />
       
       
       <h2 align="center">📱 Connect with me</h2>
