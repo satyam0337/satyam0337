@@ -15,9 +15,7 @@
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Satyam Kumar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
-      
----
-<!----------------------------------- About Section ------------------------------------>
+
       
  <h1> ## 🙋‍♂️ About Me </h1>
         <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
@@ -93,17 +91,6 @@
       </div>
       
       <br/>
-      <!-- <br/>
-      <br/>
-      <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-      
-      <br />
-      <br /> -->
-      <br/>
-      
-      
-      
-      <br/>
       
       
       <hr />
@@ -112,12 +99,12 @@
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <a href="https://github.com/search?q=ossified-boat-3758"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0337&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href=""><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0337&hide=smalltalk&theme=algolia&layout=compact" /></a>
             </p>      
            <br/>
          <p align="center">
-          <a href="https://github.com/satyam0337/github-readme-streak-stats">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam0337&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+          <a href="">
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=satyam0337&show_icons=true&theme=algolia&count_private=true"/>
           </a>
       </p>                                                                                                                                              
       
@@ -136,4 +123,4 @@
       
       <br/>
       <br/>
-<img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br>
