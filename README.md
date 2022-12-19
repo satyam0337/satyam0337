@@ -96,7 +96,7 @@
 <p display="flex" align="center">
 <img alt="satyam's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam0337&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
-  <a href="https://github.com/bhargavi35?tab=repositories">
+  <a href="https://github.com/satyam0337?tab=repositories">
     <img width="400" height="auto"   alt="satyam's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=satyam0337&show_icons=true&theme=algolia&count_private=true" />
   </a>
