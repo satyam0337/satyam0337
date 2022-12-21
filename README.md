@@ -111,7 +111,7 @@
 <hr/>
         
 <a>
-<img alt="satyam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=FFFFFF&point=FFFFFF&hide_border=true" /> <a/>
+<img alt="satyam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=satyam0337&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> <a/>
       
     
       
