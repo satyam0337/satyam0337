@@ -110,8 +110,8 @@
   <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 <hr/>
         
-      
-<img alt="vicky's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a>
+<img alt="satyam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vicky160898&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> <a/>
       
     
       
