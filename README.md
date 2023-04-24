@@ -24,8 +24,10 @@
 - 🌱 I’m currently learning *Frontend*
       
   - 📄 Check out my [Resume](https://drive.google.com/file/d/1FoHwbzkWNKEf1-07IQD1d0sF9FpcSFty/view) 
+  
+  - 💻 Know more about me [Portfolio](https://satyam0337.github.io/)
       
-  - 💻 check my portfolio:-**https://satyam0337.github.io/**
+<!--   - 💻 check my portfolio:-**https://satyam0337.github.io/** -->
       
   - 💻 All of my projects are available at **[My Github Repositories](https://github.com/satyam0337?tab=repositories)**
       
